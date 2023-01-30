@@ -1,8 +1,8 @@
 install:
-  echo "install"
+	echo "install"
 
 lint:
-  echo "lint"
+	echo "lint"
 
 test:
-  echo "test"
+	echo "test"
