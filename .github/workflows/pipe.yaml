@@ -14,3 +14,6 @@ jobs:
     - name: Test
       run: |
         make test
+    - name: End
+      run : |
+         make end
