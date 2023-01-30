@@ -3,5 +3,8 @@ def add(x, y):
 
     return x + y
 
+def subs(x,y):
+    return x - y
 
 print(add(1, 1))
+print(subs(1, 1))
