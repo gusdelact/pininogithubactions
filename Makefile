@@ -5,6 +5,7 @@ install:
 
 lint:
 	echo "lint"
+	pylint --disable=R,C hello.py
 
 test:
 	echo "test"
